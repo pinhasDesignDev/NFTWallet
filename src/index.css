@@ -1,8 +1,9 @@
 @import './reset.css';
 
 html, body {
-    background-color: #303030;
-    color: #FFFFFF;
+  background: rgb(109,34,195);
+ background: linear-gradient(140deg, rgba(109,34,195,1) 0%, rgba(43,45,66,1) 60%); 
+  color: #FFFFFF;
 }
 
 #app {
